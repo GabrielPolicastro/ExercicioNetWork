@@ -1,2 +1,2 @@
-# ExercicioNetWork
-Exercício teste com uma Api de piadas
+# NetWork
+Test exercise with a joke API
